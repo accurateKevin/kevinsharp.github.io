@@ -13,7 +13,7 @@ As a blockchain technical writer for a global startup, recently completed a proj
 # Content examples
 * [Blockchain architecture overview](https://kinecosystem.github.io/kin-website-docs/docs/kin-architecture-overview.html)
 * [Video code tutorial](https://github.com/accurateKevin/ContentExamples/blob/master/new-ide-debug-sensor.mp4) showing end-to-end process for coding and installing an embedded system application.
-* [Python API reference](https://kinecosystem.github.io/kin-website-docs/api-ref/python-sdk/) including a customized Sphinx template.
+* [Python API reference](https://kinecosystem.github.io/kin-website-docs/api-ref/python-sdk/) including a custom Sphinx theme.
 
 
-### More information and contact information [on LinkedIn](https://www.linkedin.com/in/accurateinfo/)
+### Contact information and details [on LinkedIn.](https://www.linkedin.com/in/accurateinfo/)
